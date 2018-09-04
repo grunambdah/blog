@@ -20,4 +20,4 @@ markdown: kramdown
 
 plugins: 
   - jekyll-org
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
